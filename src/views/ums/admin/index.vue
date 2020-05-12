@@ -15,7 +15,7 @@
           style="float:right;margin-right: 15px"
           @click="handleResetSearch()"
           size="small">
-          重置
+          重置1
         </el-button>
       </div>
       <div style="margin-top: 15px">
